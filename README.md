@@ -34,5 +34,5 @@ Design and develop a dynamic **Car Sales Dashboard** that visualizes key perform
 
 ---
 
-## 📁 Folder Structure (Optional if applicable)
+
 
